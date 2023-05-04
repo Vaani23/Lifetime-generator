@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.background{
+	background-image: url("shi.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height:650px
+}
+.container{
+	font-size: 25px;
+	color: white;
+	padding-top: 350px;
+    margin-left: 350px;
+    font-family: 'oswald';
+}
+.setting{
+ padding-top: 1000px;
+ text-align: end;
+ justify-content: space-between;
+
+}
+.setting input{
+	font-size: 20px;
+	
+}
+.setting button{
+	font-size: 20px;
+	background-color: green;
+	border-radius: 5px;
+	color: white;
+}
+.hide{
+	display: none;
+}
